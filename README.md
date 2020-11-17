@@ -1,2 +1,0 @@
-# Gurpreet
-abc
